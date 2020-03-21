@@ -62,4 +62,6 @@ crashlytics-build.properties
 /[Aa]ssets/Plugins/VRCSDK/
 /[Aa]ssets/VRCSDK/
 /[Aa]ssets/VRChat_SDK_Kit/
-
+/[As]ssets/Plugins/VRCSDK.meta
+/[Aa]ssets/VRCSDK.meta
+/[Aa]ssets/VRChat_SDK_Kit.meta
