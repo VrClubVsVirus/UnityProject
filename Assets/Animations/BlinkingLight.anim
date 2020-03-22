@@ -21,49 +21,55 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 2
         time: 0
-        value: -0.05986023
+        value: 0
         inSlope: 0
         outSlope: 0
         tangentMode: 136
       - serializedVersion: 2
-        time: 0.31666666
-        value: -0.3147948
+        time: 0.15
+        value: 5
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0
         inSlope: 0
         outSlope: 0
         tangentMode: 136
       - serializedVersion: 2
         time: 0.33333334
-        value: 1.059875
+        value: 5
         inSlope: 0
         outSlope: 0
         tangentMode: 136
       - serializedVersion: 2
-        time: 0.65
-        value: 0.93925357
-        inSlope: -1.4474573
-        outSlope: -1.4474573
+        time: 0.56666666
+        value: 5
+        inSlope: 0
+        outSlope: 0
         tangentMode: 136
       - serializedVersion: 2
-        time: 0.6666667
-        value: -0.05986023
+        time: 0.5833333
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.81666666
+        value: 0
         inSlope: 0
         outSlope: 0
         tangentMode: 136
       - serializedVersion: 2
         time: 0.8333333
-        value: 0.000007390976
+        value: 5
         inSlope: 0
         outSlope: 0
         tangentMode: 136
       - serializedVersion: 2
-        time: 0.98333335
-        value: -0.053633988
-        inSlope: -0.14942978
-        outSlope: -0.14942978
-        tangentMode: 136
-      - serializedVersion: 2
         time: 1
-        value: -0.05986023
+        value: 5
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -71,7 +77,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_Intensity
-    path: Spotlight.001/Spotlight
+    path: Spotlight.001/Spotlight 1
     classID: 108
     script: {fileID: 0}
   m_PPtrCurves: []
@@ -83,7 +89,7 @@ AnimationClip:
   m_ClipBindingConstant:
     genericBindings:
     - serializedVersion: 2
-      path: 2712140898
+      path: 1715675346
       attribute: 898800009
       script: {fileID: 0}
       typeID: 108
@@ -116,49 +122,55 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 2
         time: 0
-        value: -0.05986023
+        value: 0
         inSlope: 0
         outSlope: 0
         tangentMode: 136
       - serializedVersion: 2
-        time: 0.31666666
-        value: -0.3147948
+        time: 0.15
+        value: 5
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0
         inSlope: 0
         outSlope: 0
         tangentMode: 136
       - serializedVersion: 2
         time: 0.33333334
-        value: 1.059875
+        value: 5
         inSlope: 0
         outSlope: 0
         tangentMode: 136
       - serializedVersion: 2
-        time: 0.65
-        value: 0.93925357
-        inSlope: -1.4474573
-        outSlope: -1.4474573
+        time: 0.56666666
+        value: 5
+        inSlope: 0
+        outSlope: 0
         tangentMode: 136
       - serializedVersion: 2
-        time: 0.6666667
-        value: -0.05986023
+        time: 0.5833333
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.81666666
+        value: 0
         inSlope: 0
         outSlope: 0
         tangentMode: 136
       - serializedVersion: 2
         time: 0.8333333
-        value: 0.000007390976
+        value: 5
         inSlope: 0
         outSlope: 0
         tangentMode: 136
       - serializedVersion: 2
-        time: 0.98333335
-        value: -0.053633988
-        inSlope: -0.14942978
-        outSlope: -0.14942978
-        tangentMode: 136
-      - serializedVersion: 2
         time: 1
-        value: -0.05986023
+        value: 5
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -166,7 +178,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_Intensity
-    path: Spotlight.001/Spotlight
+    path: Spotlight.001/Spotlight 1
     classID: 108
     script: {fileID: 0}
   m_EulerEditorCurves: []
