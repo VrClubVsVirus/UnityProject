@@ -238,12 +238,12 @@ AudioSource:
   m_Pitch: 1
   Loop: 0
   Mute: 0
-  Spatialize: 0
+  Spatialize: 1
   SpatializePostEffects: 0
   Priority: 128
   DopplerLevel: 0
   MinDistance: 1
-  MaxDistance: 20
+  MaxDistance: 100
   Pan2D: 0
   rolloffMode: 0
   BypassEffects: 0
@@ -315,10 +315,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Gain: 10
-  Far: 15
+  Far: 2000
   Near: 0
   VolumetricRadius: 0
-  EnableSpatialization: 0
+  EnableSpatialization: 1
   UseAudioSourceVolumeCurve: 0
 --- !u!1001 &115194306
 Prefab:
@@ -1958,7 +1958,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AllowNonOwnerControl: 1
-  VideoSearchRoot: youtube.com
+  VideoSearchRoot: https://www.twitch.tv
   MaxStreamQuality: 720
   videoTextureFormat: 0
   AutoStart: 1
@@ -1966,7 +1966,7 @@ MonoBehaviour:
   - Source: 1
     VideoClip: {fileID: 0}
     PlaybackSpeed: 1
-    URL: https://www.youtube.com/watch?v=WsptdUFthWI
+    URL: https://www.twitch.tv/drdisrespect
     SyncType: 1
     SyncMinutes: 0
 --- !u!4 &1593146152
@@ -6842,7 +6842,7 @@ MonoBehaviour:
   m_Script: {fileID: -1285343726, guid: f78c4655b33cb5741983dc02e08899cf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isRoomPlayerMods: 0
+  isRoomPlayerMods: 1
   playerMods:
   - mName: jump
     mProperties:
@@ -6867,7 +6867,7 @@ MonoBehaviour:
     mProperties:
     - name: runSpeed
       intValue: 0
-      floatValue: 12
+      floatValue: 8
       stringValue: 
       boolValue: 0
       gameObjectValue: {fileID: 0}
@@ -6882,7 +6882,7 @@ MonoBehaviour:
         m_AssemblyName: mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
     - name: walkSpeed
       intValue: 0
-      floatValue: 6
+      floatValue: 4
       stringValue: 
       boolValue: 0
       gameObjectValue: {fileID: 0}
@@ -6897,7 +6897,7 @@ MonoBehaviour:
         m_AssemblyName: mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
     - name: strafeSpeed
       intValue: 0
-      floatValue: 6
+      floatValue: 4
       stringValue: 
       boolValue: 0
       gameObjectValue: {fileID: 0}
@@ -6988,10 +6988,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Gain: 10
-  Far: 15
+  Far: 2000
   Near: 0
   VolumetricRadius: 0
-  EnableSpatialization: 0
+  EnableSpatialization: 1
   UseAudioSourceVolumeCurve: 0
 --- !u!114 &1913295812
 MonoBehaviour:
@@ -7021,12 +7021,12 @@ AudioSource:
   m_Pitch: 1
   Loop: 0
   Mute: 0
-  Spatialize: 0
+  Spatialize: 1
   SpatializePostEffects: 0
   Priority: 128
   DopplerLevel: 0
   MinDistance: 1
-  MaxDistance: 20
+  MaxDistance: 100
   Pan2D: 0
   rolloffMode: 0
   BypassEffects: 0
