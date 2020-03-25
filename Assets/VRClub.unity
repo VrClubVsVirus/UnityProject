@@ -1804,7 +1804,7 @@ Transform:
 GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 1712848445}
+  m_PrefabInternal: {fileID: 0}
   serializedVersion: 5
   m_Component:
   - component: {fileID: 1529138356}
@@ -1819,7 +1819,7 @@ GameObject:
 Transform:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 1712848445}
+  m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1529138355}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
@@ -1966,7 +1966,7 @@ MonoBehaviour:
   - Source: 1
     VideoClip: {fileID: 0}
     PlaybackSpeed: 1
-    URL: https://www.twitch.tv/drdisrespect
+    URL: https://www.twitch.tv/sisyphosberlin
     SyncType: 1
     SyncMinutes: 0
 --- !u!4 &1593146152
@@ -1985,16 +1985,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1001 &1712848445
-Prefab:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications: []
-    m_RemovedComponents: []
-  m_ParentPrefab: {fileID: 0}
-  m_IsPrefabParent: 0
 --- !u!1 &1720401309
 GameObject:
   m_ObjectHideFlags: 0
@@ -6924,6 +6914,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Events: []
+--- !u!114 &1780408652
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1780408646}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 229740497, guid: 4ecd63eff847044b68db9453ce219299, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  contentType: 1
 --- !u!1 &1875172848 stripped
 GameObject:
   m_PrefabParentObject: {fileID: 100080, guid: cd44d079c0e10f84a82843a54ce0454b, type: 3}
